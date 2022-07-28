@@ -1,2 +1,2 @@
-# lapce-aleph
-Aleph theme for Lapce
+# lapce-cyberpunk-purple
+Cyberpunk Purple theme for Lapce
